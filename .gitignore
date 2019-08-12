@@ -1,3 +1,7 @@
 .vscode
 node_modules
 dist
+
+# NRSER - Ignore my `//yarn.lock` since Buckton uses NPM and this is a package
+#         so the dependency info in `//package.json` needs to be enough
+/yarn.lock
