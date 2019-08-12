@@ -1,6 +1,6 @@
 {
-  "name": "typedoc-plugin-biblio",
-  "version": "0.1.0",
+  "name": "@nrser/typedoc-plugin-biblio",
+  "version": "0.1.0-nrser.1",
   "description": "A TypeDoc plugin that adds support for references to externally hosted documentation",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
