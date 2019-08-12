@@ -15,7 +15,7 @@
 */
 
 import * as path from "path";
-import * as ts from "typedoc/node_modules/typescript/lib/typescript";
+import * as ts from "typescript";
 import { DeclarationReflection, ReflectionKind } from "typedoc";
 import { Converter, Context } from "typedoc/dist/lib/converter";
 import { ConverterComponent } from "typedoc/dist/lib/converter/components";
